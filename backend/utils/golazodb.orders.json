@@ -1,0 +1,2027 @@
+[{
+  "_id": {
+    "$oid": "67c879002cb85081c9f0a333"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67c879002cb85081c9f0a334"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85206821745cf1feebdcb"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 350,
+      "_id": {
+        "$oid": "67c879002cb85081c9f0a335"
+      }
+    }
+  ],
+  "totalPrice": 425,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-05T16:17:04.153Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-05T16:17:04.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:14.156Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c87c382cb85081c9f0a41a"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 400,
+      "_id": {
+        "$oid": "67c87c382cb85081c9f0a41b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67c87c382cb85081c9f0a41c"
+      }
+    }
+  ],
+  "totalPrice": 475,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-05T16:30:48.817Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-05T16:30:48.820Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:16.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c882e3ac107ab2c87607f0"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67c882e3ac107ab2c87607f1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85206821745cf1feebdcb"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 350,
+      "_id": {
+        "$oid": "67c882e3ac107ab2c87607f2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56ac9b25430999fc12e3b"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 450,
+      "_id": {
+        "$oid": "67c882e3ac107ab2c87607f3"
+      }
+    }
+  ],
+  "totalPrice": 875,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-05T16:59:15.425Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-05T16:59:15.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:19.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cae485f48b7872adf7dd08"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 400,
+      "_id": {
+        "$oid": "67cae485f48b7872adf7dd09"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cae485f48b7872adf7dd0a"
+      }
+    }
+  ],
+  "totalPrice": 475,
+  "status": "processing",
+  "orderDate": {
+    "$date": "2025-03-07T12:20:21.219Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-07T12:20:21.244Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:20.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cae4b26bd1ed4e3f1a98d6"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 400,
+      "_id": {
+        "$oid": "67cae4b26bd1ed4e3f1a98d7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cae4b26bd1ed4e3f1a98d8"
+      }
+    }
+  ],
+  "totalPrice": 475,
+  "status": "cancelled",
+  "orderDate": {
+    "$date": "2025-03-07T12:21:06.609Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-07T12:21:06.631Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:24.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc75f2631ee259b1588ed1"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc75f2631ee259b1588ed2"
+      }
+    }
+  ],
+  "totalPrice": 75,
+  "status": "cancelled",
+  "orderDate": {
+    "$date": "2025-03-08T16:53:06.017Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T16:53:06.033Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:40:26.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc75f7631ee259b1588ed4"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc75f7631ee259b1588ed5"
+      }
+    }
+  ],
+  "totalPrice": 75,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T16:53:11.195Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T16:53:11.197Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T16:53:11.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7d400d5051d733889218"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7d400d5051d733889219"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7d400d5051d73388921a"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:24:16.914Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:24:16.916Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:24:16.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7d570d5051d73388921c"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7d570d5051d73388921d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7d570d5051d73388921e"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:24:39.400Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:24:39.402Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:24:39.402Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7d920d5051d733889221"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7d920d5051d733889222"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7d920d5051d733889223"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:25:38.700Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:25:38.703Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:25:38.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7e0c9e07dd304f4a7e24"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7e0c9e07dd304f4a7e25"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7e0c9e07dd304f4a7e26"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:27:40.081Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:27:40.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:27:40.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7e119e07dd304f4a7e29"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7e119e07dd304f4a7e2a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7e119e07dd304f4a7e2b"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:27:45.699Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:27:45.702Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:27:45.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7e4f9e07dd304f4a7e2e"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7e4f9e07dd304f4a7e2f"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7e4f9e07dd304f4a7e30"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:28:47.941Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:28:47.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:28:47.944Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7fd89e07dd304f4a7e37"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7fd89e07dd304f4a7e38"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7fd89e07dd304f4a7e39"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:35:20.024Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:35:20.027Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:35:20.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc7fd89e07dd304f4a7e3c"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc7fd89e07dd304f4a7e3d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc7fd89e07dd304f4a7e3e"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:35:20.324Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:35:20.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:35:20.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc80039e07dd304f4a7e41"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc80039e07dd304f4a7e42"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc80039e07dd304f4a7e43"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:36:03.560Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:36:03.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:36:03.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc80f19e07dd304f4a7e46"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc80f19e07dd304f4a7e47"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc80f19e07dd304f4a7e48"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:40:01.362Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:40:01.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:40:01.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc81f99e07dd304f4a7e4b"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc81f99e07dd304f4a7e4c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc81f99e07dd304f4a7e4d"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:44:25.710Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:44:25.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:44:25.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc82329e07dd304f4a7e50"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc82329e07dd304f4a7e51"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc82329e07dd304f4a7e52"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:45:22.876Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:45:22.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:45:22.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc825c9e07dd304f4a7e55"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc825c9e07dd304f4a7e56"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc825c9e07dd304f4a7e57"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:46:04.881Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:46:04.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:46:04.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc82b2003fe9d677e3133b"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc82b2003fe9d677e3133c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc82b2003fe9d677e3133d"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:47:30.238Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:47:30.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:47:30.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cc82c0003fe9d677e31340"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67cc82c0003fe9d677e31341"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 550,
+      "_id": {
+        "$oid": "67cc82c0003fe9d677e31342"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-08T17:47:44.804Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-08T17:47:44.808Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-08T17:47:44.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cd4924241b96c1b770acb7"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56b17b25430999fc12e3f"
+      },
+      "productType": "product",
+      "quantity": 4,
+      "price": 550,
+      "_id": {
+        "$oid": "67cd4924241b96c1b770acb8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 400,
+      "_id": {
+        "$oid": "67cd4924241b96c1b770acb9"
+      }
+    }
+  ],
+  "totalPrice": 2600,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-09T07:54:12.812Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538008",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-09T07:54:12.831Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T07:54:12.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cd5553016cdee42eafbc23"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56727b25430999fc12e22"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 300,
+      "_id": {
+        "$oid": "67cd5553016cdee42eafbc24"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 2,
+      "price": 75,
+      "_id": {
+        "$oid": "67cd5553016cdee42eafbc25"
+      }
+    }
+  ],
+  "totalPrice": 450,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-09T08:46:11.864Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-09T08:46:11.883Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T08:46:11.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cd574c98774a9d14373f4d"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56727b25430999fc12e22"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 300,
+      "_id": {
+        "$oid": "67cd574c98774a9d14373f4e"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 2,
+      "price": 75,
+      "_id": {
+        "$oid": "67cd574c98774a9d14373f4f"
+      }
+    }
+  ],
+  "totalPrice": 450,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-09T08:54:36.144Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-09T08:54:36.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T08:54:36.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cde87dd4863127fa7e4279"
+  },
+  "userId": {
+    "$oid": "67c5908e1fdea5b1588336ac"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85125821745cf1feebdaa"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 50,
+      "_id": {
+        "$oid": "67cde87dd4863127fa7e427a"
+      }
+    }
+  ],
+  "totalPrice": 50,
+  "status": "cancelled",
+  "orderDate": {
+    "$date": "2025-03-09T19:14:05.918Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-09T19:14:05.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:52:48.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d15d798348c0ecdbee27a5"
+  },
+  "userId": {
+    "$oid": "67c5908e1fdea5b1588336ac"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67d15d798348c0ecdbee27a6"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c851fb821745cf1feebdc8"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 250,
+      "_id": {
+        "$oid": "67d15d798348c0ecdbee27a7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56727b25430999fc12e22"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 300,
+      "_id": {
+        "$oid": "67d15d798348c0ecdbee27a8"
+      }
+    }
+  ],
+  "totalPrice": 625,
+  "status": "processing",
+  "orderDate": {
+    "$date": "2025-03-12T10:10:01.542Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538008",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-12T10:10:01.563Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:52:50.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d15f456f63d5312f0fb709"
+  },
+  "userId": {
+    "$oid": "67c5908e1fdea5b1588336ac"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85171821745cf1feebdb9"
+      },
+      "productType": "ticket",
+      "quantity": 4,
+      "price": 150,
+      "_id": {
+        "$oid": "67d15f456f63d5312f0fb70a"
+      }
+    }
+  ],
+  "totalPrice": 600,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-12T10:17:41.320Z"
+  },
+  "paymentMethod": "creditCard",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538008",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-12T10:17:41.341Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:52:55.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3d4690443e8ec613622ad"
+  },
+  "userId": {
+    "$oid": "67d3d44b0443e8ec6136227c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67d3d3ac0443e8ec61362259"
+      },
+      "productType": "ticket",
+      "quantity": 5,
+      "price": 100,
+      "_id": {
+        "$oid": "67d3d4690443e8ec613622ae"
+      }
+    }
+  ],
+  "totalPrice": 500,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-14T07:02:01.419Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0711111111",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-14T07:02:01.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:02:01.427Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3d55b378c7419f1da66af"
+  },
+  "userId": {
+    "$oid": "67d3d44b0443e8ec6136227c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c8513c821745cf1feebdb0"
+      },
+      "productType": "ticket",
+      "quantity": 5,
+      "price": 150,
+      "_id": {
+        "$oid": "67d3d55b378c7419f1da66b0"
+      }
+    }
+  ],
+  "totalPrice": 750,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-14T07:06:03.852Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538008",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-14T07:06:03.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:06:03.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd0f774ffbd1a998f594de"
+  },
+  "userId": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67d3d7a0378c7419f1da66e6"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 85,
+      "_id": {
+        "$oid": "67dd0f774ffbd1a998f594df"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85125821745cf1feebdaa"
+      },
+      "productType": "ticket",
+      "quantity": 5,
+      "price": 50,
+      "_id": {
+        "$oid": "67dd0f774ffbd1a998f594e0"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 425,
+      "_id": {
+        "$oid": "67dd0f774ffbd1a998f594e1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56ac9b25430999fc12e3b"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 450,
+      "_id": {
+        "$oid": "67dd0f774ffbd1a998f594e2"
+      }
+    }
+  ],
+  "totalPrice": 1210,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-21T07:04:23.385Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0711111111",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-21T07:04:23.403Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:57:40.969Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e26dd9f860dbcbaa5e4c7f"
+  },
+  "userId": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 425,
+      "_id": {
+        "$oid": "67e26dd9f860dbcbaa5e4c80"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67e26dd9f860dbcbaa5e4c81"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7fb661689eb432ddc2d87"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 265,
+      "_id": {
+        "$oid": "67e26dd9f860dbcbaa5e4c82"
+      }
+    }
+  ],
+  "totalPrice": 765,
+  "status": "processing",
+  "orderDate": {
+    "$date": "2025-03-25T08:48:25.002Z"
+  },
+  "paymentMethod": "creditCard",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0733914279",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T08:48:25.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:57:42.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e26dfdf860dbcbaa5e4ce6"
+  },
+  "userId": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85125821745cf1feebdaa"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 50,
+      "_id": {
+        "$oid": "67e26dfdf860dbcbaa5e4ce7"
+      }
+    }
+  ],
+  "totalPrice": 50,
+  "status": "cancelled",
+  "orderDate": {
+    "$date": "2025-03-25T08:49:01.239Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538008",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T08:49:01.242Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:57:44.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e26fc7f860dbcbaa5e5173"
+  },
+  "userId": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 2,
+      "price": 425,
+      "_id": {
+        "$oid": "67e26fc7f860dbcbaa5e5174"
+      }
+    }
+  ],
+  "totalPrice": 850,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-25T08:56:39.909Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "standard",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-25T08:56:39.914Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:57:46.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e3a80c91655bcf02ca8c26"
+  },
+  "userId": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67e3a80c91655bcf02ca8c27"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85125821745cf1feebdaa"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 50,
+      "_id": {
+        "$oid": "67e3a80c91655bcf02ca8c28"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7d1c75906f9e03f274146"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 10,
+      "_id": {
+        "$oid": "67e3a80c91655bcf02ca8c29"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7d20b5906f9e03f274148"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 12,
+      "_id": {
+        "$oid": "67e3a80c91655bcf02ca8c2a"
+      }
+    }
+  ],
+  "totalPrice": 147,
+  "status": "completed",
+  "orderDate": {
+    "$date": "2025-03-26T07:09:00.884Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-26T07:09:00.901Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T17:57:48.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e596fc4e94bfa88268b557"
+  },
+  "userId": {
+    "$oid": "67e596ba4e94bfa88268b538"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c85171821745cf1feebdb9"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 95,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b558"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b559"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c56a62b25430999fc12e37"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 425,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b55a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7cda75906f9e03f27413f"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 150,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b55b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7cbef5906f9e03f27411d"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 200,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b55c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7d1c75906f9e03f274146"
+      },
+      "productType": "product",
+      "quantity": 5,
+      "price": 10,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b55d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7d03a5906f9e03f274144"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 15,
+      "_id": {
+        "$oid": "67e596fc4e94bfa88268b55e"
+      }
+    }
+  ],
+  "totalPrice": 1010,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-27T18:20:44.595Z"
+  },
+  "paymentMethod": "cash",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-27T18:20:44.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:44.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea49fe81297ce64ad91381"
+  },
+  "userId": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "67c56727b25430999fc12e22"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 350,
+      "_id": {
+        "$oid": "67ea49fe81297ce64ad91382"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d7d03a5906f9e03f274144"
+      },
+      "productType": "product",
+      "quantity": 1,
+      "price": 15,
+      "_id": {
+        "$oid": "67ea49fe81297ce64ad91383"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67c85180821745cf1feebdbc"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 75,
+      "_id": {
+        "$oid": "67ea49fe81297ce64ad91384"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "67d3d7a0378c7419f1da66e6"
+      },
+      "productType": "ticket",
+      "quantity": 1,
+      "price": 85,
+      "_id": {
+        "$oid": "67ea49fe81297ce64ad91385"
+      }
+    }
+  ],
+  "totalPrice": 525,
+  "status": "pending",
+  "orderDate": {
+    "$date": "2025-03-31T07:53:34.473Z"
+  },
+  "paymentMethod": "creditCard",
+  "shippingMethod": "express",
+  "shippingAddress": {
+    "street": "Invatator Biolaru nr 12",
+    "city": "Topoloveni",
+    "postalCode": "115500",
+    "phone": "0730538007",
+    "country": "Romania"
+  },
+  "createdAt": {
+    "$date": "2025-03-31T07:53:34.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:53:34.489Z"
+  },
+  "__v": 0
+}]

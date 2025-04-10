@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "67c56727b25430999fc12e22"
+  },
+  "name": "Ballon d'or",
+  "description": "This is a replica of the original tropthy.Size:L=25cm Height.Customable name!",
+  "price": 350,
+  "category": "replica",
+  "image": "https://m.media-amazon.com/images/I/612fgFnYlzL._AC_UF894,1000_QL80_.jpg",
+  "stock": 6,
+  "createdAt": {
+    "$date": "2025-03-03T08:24:07.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:53:34.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c56a62b25430999fc12e37"
+  },
+  "name": "Champions League Trophy",
+  "description": "This is a replica of the original tropthy.Size:32 Height!",
+  "price": 425,
+  "category": "replica",
+  "image": "https://m.media-amazon.com/images/I/61Dl0RGG7IL._AC_UF894,1000_QL80_.jpg",
+  "stock": 6,
+  "createdAt": {
+    "$date": "2025-03-03T08:37:54.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:44.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c56ac9b25430999fc12e3b"
+  },
+  "name": "Euro Trophy",
+  "description": "This is a replica of the original tropthy.Size:32 Height!",
+  "price": 450,
+  "category": "replica",
+  "image": "https://m.media-amazon.com/images/I/61vp2twnlPL.jpg",
+  "stock": 7,
+  "createdAt": {
+    "$date": "2025-03-03T08:39:37.783Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T07:04:23.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c56b17b25430999fc12e3f"
+  },
+  "name": "World Cup Trophy",
+  "description": "This is a replica of the original tropthy.Size:32 Height!",
+  "price": 550,
+  "category": "replica",
+  "image": "https://th-thumbnailer.cdn-si-edu.com/C6XEdXgF84oVMT1l41GhQwDgBOk=/fit-in/1200x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20110520102353344px-FIFA_World_Cup_Trophy_2002_0103_-_CROPPED--172x300.jpg",
+  "stock": 8,
+  "createdAt": {
+    "$date": "2025-03-03T08:40:55.483Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:42:49.361Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c56b54b25430999fc12e43"
+  },
+  "name": "Golden Boot Trophy",
+  "description": "This is a replica of the original tropthy.Size:20 Height!",
+  "price": 550,
+  "category": "replica",
+  "image": "https://m.media-amazon.com/images/I/61+qG+qk3ZL.jpg",
+  "stock": 10,
+  "createdAt": {
+    "$date": "2025-03-03T08:41:56.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:42:57.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3ddc0378c7419f1da6729"
+  },
+  "name": "Europa League Trophy",
+  "description": "This is a replica of the original trophy. Size:32 cm Height!",
+  "price": 400,
+  "category": "replica",
+  "image": "https://m.media-amazon.com/images/I/51LS5adSCJL.jpg",
+  "stock": 15,
+  "createdAt": {
+    "$date": "2025-03-14T07:41:52.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:42:07.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7cbef5906f9e03f27411d"
+  },
+  "name": "Home Kit",
+  "description": "New Home Kit season 2025/26!!!\nNew Design!!!",
+  "price": 200,
+  "category": "jersey",
+  "image": "../../images/kit2.png",
+  "stock": 99,
+  "createdAt": {
+    "$date": "2025-03-17T07:14:55.555Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:45.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7cda75906f9e03f27413f"
+  },
+  "name": "Home Kit v2",
+  "description": "New HomeKit v2 season 2025/26!!!!\nNew Design!!!",
+  "price": 150,
+  "category": "jersey",
+  "image": "../../images/kit3.png",
+  "stock": 49,
+  "createdAt": {
+    "$date": "2025-03-17T07:22:15.685Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:44.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d0045906f9e03f274142"
+  },
+  "name": "Cana Golazo FC White",
+  "description": "Cana numai buna pentru a bea cafeluta\nde dimineata!!!",
+  "price": 20,
+  "category": "mug",
+  "image": "../../images/mug2.png",
+  "stock": 200,
+  "createdAt": {
+    "$date": "2025-03-17T07:32:20.830Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:12:15.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d03a5906f9e03f274144"
+  },
+  "name": "Cana Golazo FC Purple",
+  "description": "Cana numai buna pentru a savura cafea de dimineata!!!",
+  "price": 15,
+  "category": "mug",
+  "image": "../../images/mug1.png",
+  "stock": 48,
+  "createdAt": {
+    "$date": "2025-03-17T07:33:14.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:53:34.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d1c75906f9e03f274146"
+  },
+  "name": "Scarf Golazo FC Home",
+  "description": "New Scarf for Home Games!!!\nSeason 2025/26!",
+  "price": 10,
+  "category": "scarf",
+  "image": "../../images/scarf2.png",
+  "stock": 94,
+  "createdAt": {
+    "$date": "2025-03-17T07:39:51.060Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:45.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d20b5906f9e03f274148"
+  },
+  "name": "Scarf Golazo FC Away",
+  "description": "New Scarf for Away Games!!!\nSeason 2025/26!",
+  "price": 12,
+  "category": "scarf",
+  "image": "../../images/scarf1.png",
+  "stock": 89,
+  "createdAt": {
+    "$date": "2025-03-17T07:40:59.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T07:09:01.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d3f85906f9e03f27414a"
+  },
+  "name": "Minge Golazo FC Home",
+  "description": "New Ball!\nPractice makes perfect!!!",
+  "price": 20,
+  "category": "accessory",
+  "image": "../../images/ball1.png",
+  "stock": 30,
+  "createdAt": {
+    "$date": "2025-03-17T07:49:12.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:13:27.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7d4255906f9e03f27414c"
+  },
+  "name": "Ball Golazo FC Away",
+  "description": "New Ball!!!\nPractice makes perfect!!!",
+  "price": 15,
+  "category": "accessory",
+  "image": "../../images/ball2.png",
+  "stock": 25,
+  "createdAt": {
+    "$date": "2025-03-17T07:49:57.951Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:13:38.721Z"
+  },
+  "__v": 0
+}]

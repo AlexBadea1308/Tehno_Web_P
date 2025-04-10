@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67d033e6944442d8c7c1d577"
+  },
+  "matchId": {
+    "$oid": "67c850fb821745cf1feebda7"
+  },
+  "title": "Pe ei pe mama lor",
+  "description": "Mrrr",
+  "date": {
+    "$date": "2025-04-17T00:00:00.000Z"
+  },
+  "duration": 30,
+  "exercises": [
+    {
+      "name": "scoala alergarii",
+      "description": "pana nu mai poti",
+      "duration": 30,
+      "_id": {
+        "$oid": "67d033e6944442d8c7c1d578"
+      }
+    }
+  ],
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "createdAt": {
+    "$date": "2025-03-11T13:00:22.753Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T09:18:14.190Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67e5986e4e94bfa88268b7ae"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "title": "Forta Steaua baietii adunarea",
+  "description": "Ba intram pe teren si ii mancam ii mancam nu misca unul!!!!",
+  "date": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "duration": 120,
+  "exercises": [
+    {
+      "name": "flotari",
+      "description": "200 reps",
+      "duration": 20,
+      "_id": {
+        "$oid": "67e5986e4e94bfa88268b7af"
+      }
+    },
+    {
+      "name": "geno",
+      "description": "100 reps",
+      "duration": 10,
+      "_id": {
+        "$oid": "67e5986e4e94bfa88268b7b0"
+      }
+    },
+    {
+      "name": "socala alergarii",
+      "description": "pana nu mai poti",
+      "duration": 90,
+      "_id": {
+        "$oid": "67e5986e4e94bfa88268b7b1"
+      }
+    }
+  ],
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "createdAt": {
+    "$date": "2025-03-27T18:26:54.982Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:26:54.982Z"
+  },
+  "__v": 0
+}]

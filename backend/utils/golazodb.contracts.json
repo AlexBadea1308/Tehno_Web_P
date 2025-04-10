@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "67d06a6bde5b420bd4393f1f"
+  },
+  "playerId": {
+    "$oid": "67ce973d37731a33fd65f970"
+  },
+  "startDate": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2029-03-11T00:00:00.000Z"
+  },
+  "releaseClause": "10000000",
+  "contractLength": 4,
+  "salaryPerWeek": 2000,
+  "bonusPerGoal": 300,
+  "squadRole": "Important",
+  "createdAt": {
+    "$date": "2025-03-11T16:52:59.843Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T16:52:59.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d06af4de5b420bd4393f35"
+  },
+  "playerId": {
+    "$oid": "67ce979637731a33fd65f977"
+  },
+  "startDate": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2029-03-11T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 4,
+  "salaryPerWeek": 7000,
+  "bonusPerGoal": 400,
+  "squadRole": "Important",
+  "createdAt": {
+    "$date": "2025-03-11T16:55:16.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T16:55:16.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d06cf0c51e668e90f26478"
+  },
+  "playerId": {
+    "$oid": "67cf0b16c4dfed2bdc3da7ca"
+  },
+  "startDate": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2030-03-11T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 5,
+  "salaryPerWeek": 10000,
+  "bonusPerGoal": 0,
+  "squadRole": "Crucial",
+  "createdAt": {
+    "$date": "2025-03-11T17:03:44.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T17:03:44.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d06dabc51e668e90f26486"
+  },
+  "playerId": {
+    "$oid": "67c49066a6a19852ddb85c70"
+  },
+  "startDate": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2030-03-11T00:00:00.000Z"
+  },
+  "releaseClause": "20000000",
+  "contractLength": 5,
+  "salaryPerWeek": 4000,
+  "bonusPerGoal": 100,
+  "squadRole": "Rotation",
+  "createdAt": {
+    "$date": "2025-03-11T17:06:51.661Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T15:40:15.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d06e1fc51e668e90f2649c"
+  },
+  "playerId": {
+    "$oid": "67cf1eb7c4d36c8e153cfead"
+  },
+  "startDate": {
+    "$date": "2025-03-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-11T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 1,
+  "salaryPerWeek": 15000,
+  "bonusPerGoal": null,
+  "squadRole": "Important",
+  "createdAt": {
+    "$date": "2025-03-11T17:08:47.405Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-11T17:08:55.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d1c91f29a1911df06fae7e"
+  },
+  "playerId": {
+    "$oid": "67c444f57c05840593632714"
+  },
+  "startDate": {
+    "$date": "2025-03-12T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2028-03-12T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 3,
+  "salaryPerWeek": 4000,
+  "bonusPerGoal": 600,
+  "squadRole": "Sporadic",
+  "createdAt": {
+    "$date": "2025-03-12T17:49:19.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T17:49:19.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d29104152b90d5121972f0"
+  },
+  "playerId": {
+    "$oid": "67cf49f0171ee0bb8b5dda06"
+  },
+  "startDate": {
+    "$date": "2025-03-13T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2026-03-13T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 1,
+  "salaryPerWeek": 4000,
+  "bonusPerGoal": 0,
+  "squadRole": "Crucial",
+  "createdAt": {
+    "$date": "2025-03-13T08:02:12.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T08:02:12.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7c7405906f9e03f273fdc"
+  },
+  "playerId": {
+    "$oid": "67cf4ae8171ee0bb8b5dda1b"
+  },
+  "startDate": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2030-03-17T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 5,
+  "salaryPerWeek": 3000,
+  "bonusPerGoal": 2000,
+  "squadRole": "Rotation",
+  "createdAt": {
+    "$date": "2025-03-17T06:54:56.757Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T06:54:56.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7f27cebca345da6c9ae14"
+  },
+  "playerId": {
+    "$oid": "67cf4a42171ee0bb8b5dda0f"
+  },
+  "startDate": {
+    "$date": "2025-03-17T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2028-03-17T00:00:00.000Z"
+  },
+  "releaseClause": "No Release Clause",
+  "contractLength": 3,
+  "salaryPerWeek": 3000,
+  "bonusPerGoal": 100,
+  "squadRole": "Rotation",
+  "createdAt": {
+    "$date": "2025-03-17T09:59:24.013Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T09:59:24.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e26f01f860dbcbaa5e4dd9"
+  },
+  "playerId": {
+    "$oid": "67ce977937731a33fd65f974"
+  },
+  "startDate": {
+    "$date": "2025-03-25T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2029-03-25T00:00:00.000Z"
+  },
+  "releaseClause": "10000000",
+  "contractLength": 4,
+  "salaryPerWeek": 6000,
+  "bonusPerGoal": 700,
+  "squadRole": "Crucial",
+  "createdAt": {
+    "$date": "2025-03-25T08:53:21.101Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T08:53:21.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e5989b4e94bfa88268b7c8"
+  },
+  "playerId": {
+    "$oid": "67ca924db5d1a909721759b7"
+  },
+  "startDate": {
+    "$date": "2025-03-27T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2027-03-27T00:00:00.000Z"
+  },
+  "releaseClause": "500000",
+  "contractLength": 2,
+  "salaryPerWeek": 5000,
+  "bonusPerGoal": 0,
+  "squadRole": "Crucial",
+  "createdAt": {
+    "$date": "2025-03-27T18:27:39.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:27:39.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea4af481297ce64ad915a6"
+  },
+  "playerId": {
+    "$oid": "67cf449ebbb19de1f06e27ac"
+  },
+  "startDate": {
+    "$date": "2025-03-31T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2029-03-31T00:00:00.000Z"
+  },
+  "releaseClause": "20000000",
+  "contractLength": 4,
+  "salaryPerWeek": 5000,
+  "bonusPerGoal": 0,
+  "squadRole": "Crucial",
+  "createdAt": {
+    "$date": "2025-03-31T07:57:40.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:57:40.169Z"
+  },
+  "__v": 0
+}]

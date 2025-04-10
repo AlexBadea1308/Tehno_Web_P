@@ -1,0 +1,1092 @@
+[{
+  "_id": {
+    "$oid": "67d14e3aba32d8cc5a33c6ba"
+  },
+  "matchId": {
+    "$oid": "67c850fb821745cf1feebda7"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6bb"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fa1171ee0bb8b5dda73"
+      },
+      "position": "CAM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6bc"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "LM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6bd"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "RM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6be"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fd7171ee0bb8b5dda76"
+      },
+      "position": "CDM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6bf"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CDM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c0"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c1"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c2"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c3"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf5983fee58dc1abf220e1"
+      },
+      "position": "RB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c4"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c5"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c6"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c7"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c8"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6c9"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67d14e3aba32d8cc5a33c6ca"
+      }
+    }
+  ],
+  "formation": "4-2-3-1",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-12T09:04:58.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T09:04:58.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e26e90f860dbcbaa5e4da5"
+  },
+  "matchId": {
+    "$oid": "67d7fb2e1689eb432ddc2d77"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4da6"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "LM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4da7"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "CM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4da8"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4da9"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "CM3",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4daa"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "RM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4dab"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4dac"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4dad"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf1f109ff4ba8c8259a902"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4dae"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "RB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4daf"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db0"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db1"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db2"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf5983fee58dc1abf220e1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db3"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67d53bc288d2b4b44290e75b"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db4"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67e26e90f860dbcbaa5e4db5"
+      }
+    }
+  ],
+  "formation": "4-5-1",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-25T08:51:28.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T08:51:28.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea4a8681297ce64ad914bd"
+  },
+  "matchId": {
+    "$oid": "67d498224d35ebc43ace6120"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914be"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "LW",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914bf"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "RW",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c0"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c1"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "CM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c2"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c3"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "RM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c4"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c5"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf1f109ff4ba8c8259a902"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c6"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "CB3",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c7"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c8"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914c9"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914ca"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914cb"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fa1171ee0bb8b5dda73"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914cc"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fd7171ee0bb8b5dda76"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8681297ce64ad914cd"
+      }
+    }
+  ],
+  "formation": "3-4-3",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-31T07:55:50.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:55:50.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea4a8a81297ce64ad914e9"
+  },
+  "matchId": {
+    "$oid": "67d498224d35ebc43ace6120"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914ea"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "LW",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914eb"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "RW",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914ec"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914ed"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "CM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914ee"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914ef"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "RM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f0"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f1"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf1f109ff4ba8c8259a902"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f2"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "CB3",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f3"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f4"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f5"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f6"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f7"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fa1171ee0bb8b5dda73"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f8"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fd7171ee0bb8b5dda76"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4a8a81297ce64ad914f9"
+      }
+    }
+  ],
+  "formation": "3-4-3",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-31T07:55:54.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:55:54.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea4ab581297ce64ad91549"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154a"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "ST2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154b"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "CAM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154c"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154d"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fa1171ee0bb8b5dda73"
+      },
+      "position": "CM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154e"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fd7171ee0bb8b5dda76"
+      },
+      "position": "CDM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad9154f"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91550"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91551"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf1f109ff4ba8c8259a902"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91552"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "RB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91553"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91554"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91555"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91556"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91557"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91558"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab581297ce64ad91559"
+      }
+    }
+  ],
+  "formation": "4-1-2-1-2",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-31T07:56:37.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:56:37.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ea4ab881297ce64ad91576"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "players": [
+    {
+      "playerId": {
+        "$oid": "67cf500b171ee0bb8b5dda79"
+      },
+      "position": "ST1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91577"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf51fc171ee0bb8b5ddabb"
+      },
+      "position": "ST2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91578"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf09c0c4dfed2bdc3da7b7"
+      },
+      "position": "CAM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91579"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4e60171ee0bb8b5dda58"
+      },
+      "position": "CM1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157a"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fa1171ee0bb8b5dda73"
+      },
+      "position": "CM2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157b"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4fd7171ee0bb8b5dda76"
+      },
+      "position": "CDM",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157c"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4c93171ee0bb8b5dda1e"
+      },
+      "position": "LB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157d"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf0b58c4dfed2bdc3da7cd"
+      },
+      "position": "CB1",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157e"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf1f109ff4ba8c8259a902"
+      },
+      "position": "CB2",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad9157f"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf479e171ee0bb8b5dd9dc"
+      },
+      "position": "RB",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91580"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefb7fc4dfed2bdc3da72b"
+      },
+      "position": "GK",
+      "isStarter": true,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91581"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67ce98d42a4b410e704d063d"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91582"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cefce6c4dfed2bdc3da746"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91583"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf45b6171ee0bb8b5dd9c7"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91584"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4924171ee0bb8b5dd9f1"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91585"
+      }
+    },
+    {
+      "playerId": {
+        "$oid": "67cf4d6f171ee0bb8b5dda41"
+      },
+      "position": "Substitute",
+      "isStarter": false,
+      "_id": {
+        "$oid": "67ea4ab881297ce64ad91586"
+      }
+    }
+  ],
+  "formation": "4-1-2-1-2",
+  "createdBy": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "status": "draft",
+  "createdAt": {
+    "$date": "2025-03-31T07:56:40.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:56:40.712Z"
+  },
+  "__v": 0
+}]

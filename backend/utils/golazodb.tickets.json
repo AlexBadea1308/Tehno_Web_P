@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "67c85125821745cf1feebdaa"
+  },
+  "matchId": {
+    "$oid": "67c850fb821745cf1feebda7"
+  },
+  "seatCategory": "Standard",
+  "price": 50,
+  "availableTickets": 9,
+  "createdAt": {
+    "$date": "2025-03-05T13:27:01.604Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-26T07:09:01.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c85131821745cf1feebdad"
+  },
+  "matchId": {
+    "$oid": "67c850fb821745cf1feebda7"
+  },
+  "seatCategory": "VIP",
+  "price": 100,
+  "availableTickets": 8,
+  "createdAt": {
+    "$date": "2025-03-05T13:27:13.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T08:56:25.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c8513c821745cf1feebdb0"
+  },
+  "matchId": {
+    "$oid": "67c850fb821745cf1feebda7"
+  },
+  "seatCategory": "General",
+  "price": 150,
+  "availableTickets": 0,
+  "createdAt": {
+    "$date": "2025-03-05T13:27:24.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T07:06:04.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c85171821745cf1feebdb9"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "seatCategory": "VIP",
+  "price": 95,
+  "availableTickets": 29,
+  "createdAt": {
+    "$date": "2025-03-05T13:28:17.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:20:45.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c85180821745cf1feebdbc"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "seatCategory": "Standard",
+  "price": 75,
+  "availableTickets": 17,
+  "createdAt": {
+    "$date": "2025-03-05T13:28:32.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:53:35.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c851f2821745cf1feebdc5"
+  },
+  "matchId": {
+    "$oid": "67c852e5821745cf1feebdf3"
+  },
+  "seatCategory": "Standard",
+  "price": 150,
+  "availableTickets": 26,
+  "createdAt": {
+    "$date": "2025-03-05T13:30:26.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-09T19:01:51.731Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c851fb821745cf1feebdc8"
+  },
+  "matchId": {
+    "$oid": "67c852e5821745cf1feebdf3"
+  },
+  "seatCategory": "VIP",
+  "price": 250,
+  "availableTickets": 18,
+  "createdAt": {
+    "$date": "2025-03-05T13:30:35.531Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T10:10:02.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c85206821745cf1feebdcb"
+  },
+  "matchId": {
+    "$oid": "67c852e5821745cf1feebdf3"
+  },
+  "seatCategory": "General",
+  "price": 350,
+  "availableTickets": 8,
+  "createdAt": {
+    "$date": "2025-03-05T13:30:46.699Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-05T16:59:15.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3d7a0378c7419f1da66e6"
+  },
+  "matchId": {
+    "$oid": "67c84c5c821745cf1feebd84"
+  },
+  "seatCategory": "General",
+  "price": 85,
+  "availableTickets": 8,
+  "createdAt": {
+    "$date": "2025-03-14T07:15:44.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-31T07:53:35.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7fb4c1689eb432ddc2d80"
+  },
+  "matchId": {
+    "$oid": "67d498224d35ebc43ace6120"
+  },
+  "seatCategory": "VIP",
+  "price": 250,
+  "availableTickets": 40,
+  "createdAt": {
+    "$date": "2025-03-17T10:37:00.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:37:00.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7fb661689eb432ddc2d87"
+  },
+  "matchId": {
+    "$oid": "67d7fb2e1689eb432ddc2d77"
+  },
+  "seatCategory": "Standard",
+  "price": 265,
+  "availableTickets": 29,
+  "createdAt": {
+    "$date": "2025-03-17T10:37:26.407Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-25T08:48:25.594Z"
+  },
+  "__v": 0
+}]

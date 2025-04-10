@@ -1,0 +1,468 @@
+[{
+  "_id": {
+    "$oid": "67c35149ae31bee629ea6864"
+  },
+  "name": "Badea",
+  "surname": "Alexandru",
+  "username": "alex",
+  "email": "alexxlea13@gmail.com",
+  "password": "$2b$10$rRCPniCJTZyoloMqA6iqFu6bRvwmnyrQU0zbffeG6eK2luRjjTjFi",
+  "role": "fan",
+  "createdAt": {
+    "$date": "2025-03-01T18:26:17.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T19:12:29.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c444f57c05840593632714"
+  },
+  "name": "Pila",
+  "surname": "Alexandru",
+  "username": "pila",
+  "email": "pilaalex28@gmail.com",
+  "password": "$2b$10$ItF.jiBiyYiEjNgF.FtkpeTrVUrKi9IWacgIzmOXSzRVegIz2TONe",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-02T11:45:57.851Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T19:13:41.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c49066a6a19852ddb85c70"
+  },
+  "name": "Meclea",
+  "surname": "Bogdan",
+  "username": "meclea",
+  "email": "meclea12@gmail.com",
+  "password": "$2b$10$JWK5s7zeiHfncJuud6iHfOL.H8YGdnVjmYYONO3Vh3r6754LTqkZ.",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-02T17:07:50.462Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T19:14:23.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5908e1fdea5b1588336ac"
+  },
+  "name": "Grosu",
+  "surname": "Razvan",
+  "username": "grosu",
+  "email": "grosu15@gmail.com",
+  "password": "$2b$10$u3/0Fb7BvrJsfGs8xgHWce6VocTMM3nzVsF0.Ri2I5XIEPhdhp8lK",
+  "role": "fan",
+  "createdAt": {
+    "$date": "2025-03-03T11:20:46.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T19:15:09.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca91b9b5d1a909721759b0"
+  },
+  "name": "Anonimus",
+  "surname": "Anonimuss",
+  "username": "admin",
+  "email": "admin@golazo.com",
+  "password": "$2b$10$C1.yeOSlc8kaKtTeRkbXEeM.JfrMzDVmxE8wu/e6xkHZsjwuvmtgm",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-03-07T06:27:05.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:29:04.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca924db5d1a909721759b7"
+  },
+  "name": "Florin",
+  "surname": "Nita",
+  "username": "nita",
+  "email": "florin_nita@golazo.com",
+  "password": "$2b$10$IUHCknoJRtEwXzrv2uWnhOT9w7uHgMSrHq6b1g.j9rPXcd5M9tDKi",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-07T06:29:33.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-07T06:29:33.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ca9315b5d1a909721759bc"
+  },
+  "name": "Mircea",
+  "surname": "Lucescu",
+  "username": "coach",
+  "email": "mircea_lucescu@golazo.com",
+  "password": "$2b$10$vSxvQpcPVWdwZ8JR/nDHKuKBnnJcGYsvUKgfrtFvPrEFVes0eImxi",
+  "role": "manager",
+  "createdAt": {
+    "$date": "2025-03-07T06:32:53.713Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-12T15:31:58.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce973d37731a33fd65f970"
+  },
+  "name": "Florinel",
+  "surname": "Coman",
+  "username": "coman",
+  "email": "florinel_coman@golazo.com",
+  "password": "$2b$10$TePd4uZqfqpZTao5HiHNtOQ//2/e.guIVkKQjgOT1aXtTvyo5TXiS",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T07:39:41.075Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:39:41.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce977937731a33fd65f974"
+  },
+  "name": "Dennis",
+  "surname": "Man",
+  "username": "dennis_man",
+  "email": "dennis_man@golazo.com",
+  "password": "$2b$10$/2Z6i7AjcLS1exvzarBJ.eZEF.RFK9kDvbxs.bqaCSkb18ZqpKakC",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T07:40:41.195Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:40:41.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ce979637731a33fd65f977"
+  },
+  "name": "Constantin",
+  "surname": "Budescu",
+  "username": "budescu",
+  "email": "constantin_budescu@golazo.com",
+  "password": "$2b$10$1/czxjj0oykzkR4BFqe4seI0ivHMDhEkNB5JFwii55evKu1q7TcGe",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T07:41:10.437Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T07:41:10.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf0b16c4dfed2bdc3da7ca"
+  },
+  "name": "Radu",
+  "surname": "Dragusin",
+  "username": "dragusin",
+  "email": "radu_dragusin@golazo.com",
+  "password": "$2b$10$iI3Xsb1/yAWATdiPUjRERO2hTzkFEbWZ5MD2gRiUGgrLuEd53KHDu",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T15:53:58.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T15:53:58.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf1eb7c4d36c8e153cfead"
+  },
+  "name": "Vlad",
+  "surname": "Chiriches",
+  "username": "chiriches",
+  "email": "vlad_chiriches@golazo.com",
+  "password": "$2b$10$uP4ldJ5C4LNOH9c8FtwOHuRp7EqNNwRvklVDDnofgX9PB/JlY6pxu",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T17:17:43.527Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T17:17:43.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4415bbb19de1f06e279b"
+  },
+  "name": "Nicusor",
+  "surname": "Stanciu",
+  "username": "stanciu",
+  "email": "nicusor_stanciu@golazo.com",
+  "password": "$2b$10$4.rST1rexM6kiUaEGBqL7.XrdK5uUV7H9na99K6YI8AgbhTs7u596",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T19:57:09.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T19:57:09.500Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf443ebbb19de1f06e279e"
+  },
+  "name": "Valentin",
+  "surname": "Cretu",
+  "username": "cretu",
+  "email": "valentin_cretu@golazo.com",
+  "password": "$2b$10$j6839UQPM7JtdMl81u2fJ.SQOhKPvyyFYIhTZ5FOO9LFuD6Z/GleC",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T19:57:50.490Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T19:57:50.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf449ebbb19de1f06e27ac"
+  },
+  "name": "Oprea",
+  "surname": "Laurentiu",
+  "username": "laur",
+  "email": "oprea_laurentiu@golazo.com",
+  "password": "$2b$10$e1oIolcuZzuRDDrehJaID.mLvM.WVBi92A0A/5mlrWtSNG9UvtdQG",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T19:59:26.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T19:59:26.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf49f0171ee0bb8b5dda06"
+  },
+  "name": "Tavi",
+  "surname": "Gingu",
+  "username": "tavi",
+  "email": "tavi_gangu@golazo.com",
+  "password": "$2b$10$g1uvUbHnB/usDtugPh0/2.EI1YQK/EQTiIPL6z70FEOq.oaOzo5ka",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:22:08.448Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:22:08.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a0f171ee0bb8b5dda09"
+  },
+  "name": "Ioan",
+  "surname": "Tatar",
+  "username": "john",
+  "email": "ioan_tatar@golazo.com",
+  "password": "$2b$10$K/rZvWAqNim1rho.ceXub.7pVLe4khIonVJPziO.dW7c8opRL08LS",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:22:39.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:22:39.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a27171ee0bb8b5dda0c"
+  },
+  "name": "Costan",
+  "surname": "Rares",
+  "username": "costan",
+  "email": "costan_rares@golazo.com",
+  "password": "$2b$10$7kKrU2aknw7KTTetX1Jx.ulMODzjQG2Po3blrW3TXb/my8zovz/g6",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:23:03.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:23:03.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a42171ee0bb8b5dda0f"
+  },
+  "name": "Borcila",
+  "surname": "Vasile",
+  "username": "borcica",
+  "email": "borcica_vasile@golazo.com",
+  "password": "$2b$10$mzwqWTcKCehoHv8o0cedLuB0LLfMjHlyr.xI32TsbB6coGSM1lMpu",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:23:30.467Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:23:30.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a6d171ee0bb8b5dda12"
+  },
+  "name": "Dariu",
+  "surname": "Olaru",
+  "username": "olaru",
+  "email": "darius_olaru@golazo.com",
+  "password": "$2b$10$ovEalMQBPChtU3c.wBvWY.qjCy54RQnSSfflCWBv64I4KDh1MsA4e",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:24:13.528Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:24:13.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4a8a171ee0bb8b5dda15"
+  },
+  "name": "Daniel",
+  "surname": "Birligea",
+  "username": "birligea",
+  "email": "daniel_birligea@golazo.com",
+  "password": "$2b$10$uOxn0x6/AjnLI2XR5I3PVe2ToBahleK/P7QosfB00BzKchOsE/hjK",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:24:42.008Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:24:42.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4ab9171ee0bb8b5dda18"
+  },
+  "name": "Adrian",
+  "surname": "Sut",
+  "username": "sut",
+  "email": "adrian_sut@golazo.com",
+  "password": "$2b$10$twp9vw3NmV34xp1Xg1IXLuTCxLEqBIRjYeZ0d08uIqSKOvIl1tIVa",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:25:29.588Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:25:29.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf4ae8171ee0bb8b5dda1b"
+  },
+  "name": "Gruia",
+  "surname": "Bogdan",
+  "username": "gruia",
+  "email": "bogdan_gruia@golazo.com",
+  "password": "$2b$10$jrytHS05/6dIek1in4qGhusvna9E6etOv9PiHphAvb8FIb0QWWlyi",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:26:16.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:26:16.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cf51ba171ee0bb8b5ddab8"
+  },
+  "name": "Risto",
+  "surname": "Radunovic",
+  "username": "radunovic",
+  "email": "risto_radunovic@golazo.com",
+  "password": "$2b$10$uPOV4F/tgHCfkM60H.thi.rr2qi3oYZAiaF3hL/i4n7SGwBtZn5R2",
+  "role": "player",
+  "createdAt": {
+    "$date": "2025-03-10T20:55:22.055Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T20:55:22.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7f2b8ebca345da6c9ae1c"
+  },
+  "name": "Andrei",
+  "surname": "Roxana",
+  "username": "roxana",
+  "email": "roxana@gmail.com",
+  "password": "$2b$10$dVTkGxk/3aBNR5hbQ9ZfRu.esQr63hzivtUgB8LpoXL.FqZxsjdPu",
+  "role": "fan",
+  "createdAt": {
+    "$date": "2025-03-17T10:00:24.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:00:24.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e596ba4e94bfa88268b538"
+  },
+  "name": "user",
+  "surname": "user",
+  "username": "user",
+  "email": "user@gmail.com",
+  "password": "$2b$10$V6zXpM569cFwqlkh3hOao.K/cHQM3T4rRTSb4NSNQsHXuksl0EbXm",
+  "role": "fan",
+  "createdAt": {
+    "$date": "2025-03-27T18:19:38.769Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T18:19:38.769Z"
+  },
+  "__v": 0
+}]
