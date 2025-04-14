@@ -36,6 +36,9 @@ Scenariu user "fan":
 
 Scenariu user "player";
 -mai mult este un mod de view pentru informatiile furnizate de catre manager;
+-isi poate vedea contractul;
+-squad ul pentru meciurile viitoare;
+-planurile de antrenament;
 -user coman parola coman1308;
 
 Scenariu user "coach":
