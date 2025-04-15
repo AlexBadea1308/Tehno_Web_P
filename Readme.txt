@@ -4,9 +4,10 @@ Prezentarea generala a proiectului o puteti gasi in folderul Needs unde este ata
 -----------------------Configurare proiect----------------------------
 Pentru crearea fisierelor de node modules vom rula comanda npm install in directorul proiectului si in frontend;
 Vom crea manual fisierul .env in directorul proiectului care va avea urmatoarea forma:
--Nu uita s amodifici in MONGO_URI username si password de la contul tau de mongo;
+-Creeaza o noua conexiune in MongoDB Compass cu numele "golazoDB";
+-Preiei connection stirngul si il aduagi la MONGO_URI
 
-MONGO_URI=mongodb+srv://username:password@golazo.6mfn8.mongodb.net/golazoDB?retryWrites=true&w=majority&appName=GOLAZO
+MONGO_URI=mongodb://localhost:27017/golazoDB
 PORT=5000
 JWT_SECRET=secventa aleatoare de caractere alpha-numerice de lungime maxima 250
 
