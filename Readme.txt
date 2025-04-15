@@ -25,7 +25,8 @@ Vom crea manual fisierul .env in directorul proiectului care va avea urmatoarea 
 
 MONGO_URI=mongodb+srv://username:password@golazo.6mfn8.mongodb.net/golazoDB?retryWrites=true&w=majority&appName=GOLAZO
 PORT=5000
-JWT_SECRET=secventa aleatoare de caractere alpha-numerice
+JWT_SECRET=secventa aleatoare de caractere alpha-numerice de lungime maxima 250
+
 Pentru populare baza de date se navigheaza in utils ( cd backend/utils) si se ruleaza comanda node seed.js
 Rulare backend: npm run dev (se ruleaza din directorul backend)
 Rulare frontend: npm run dev (se ruleaza din directorul frontend)
