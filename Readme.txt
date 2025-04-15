@@ -1,35 +1,22 @@
 Prezentarea generala a proiectului o puteti gasi in folderul Needs unde este atasat un document word explicativ.
-Pachete instalate:
- "dependencies": {
-    "@chakra-ui/react": "^3.8.1",
-    "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.0",
-    "axios": "^1.8.1",
-    "bcryptjs": "^3.0.2",
-    "body-parser": "^1.20.3",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "framer-motion": "^12.4.7",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.10.2",
-    "mongoose-timestamp": "^0.6.0",
-    "react-router-dom": "^7.2.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.9"
-  }
 
-Pentru crearea fisierelor de node modules vom rula comanda npm install in directorul proiectului;
+
+-----------------------Configurare proiect----------------------------
+Pentru crearea fisierelor de node modules vom rula comanda npm install in directorul proiectului si in frontend;
 Vom crea manual fisierul .env in directorul proiectului care va avea urmatoarea forma:
+-Nu uita s amodifici in MONGO_URI username si password de la contul tau de mongo;
 
 MONGO_URI=mongodb+srv://username:password@golazo.6mfn8.mongodb.net/golazoDB?retryWrites=true&w=majority&appName=GOLAZO
 PORT=5000
 JWT_SECRET=secventa aleatoare de caractere alpha-numerice de lungime maxima 250
 
 Pentru populare baza de date se navigheaza in utils ( cd backend/utils) si se ruleaza comanda node seed.js
+
 Rulare backend: npm run dev (se ruleaza din directorul backend)
+
 Rulare frontend: npm run dev (se ruleaza din directorul frontend)
+
+------------------------------------------------------------------------
 
 Scenariu user nelogat: poate naviga prin toate paginile ca si un user de tip fun doar ca nu poate plasa comenzi deoarece necesita autentificare;
 
