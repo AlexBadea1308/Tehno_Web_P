@@ -30,14 +30,20 @@ const connectDB = async () => {
 const convertExtendedJSON = (data) => {
   const convertValue = (value) => {
     if (Array.isArray(value)) {
-      return value.map(convertValue); // prioritate array
+      return value.map(convertValue); // Procesam array-urile
     }
     if (value && typeof value === 'object') {
-      if ('$oid' in value) return value['$oid'];
-      if ('$date' in value) return new Date(value['$date']);
-      return Object.fromEntries(Object.entries(value).map(([k, v]) => [k, convertValue(v)]));
+      if ('$oid' in value) {
+        return new mongoose.Types.ObjectId(value['$oid']); // Convertim $oid in ObjectId
+      }
+      if ('$date' in value) {
+        return new Date(value['$date']); // Convertim $date in Date
+      }
+      return Object.fromEntries(
+        Object.entries(value).map(([k, v]) => [k, convertValue(v)])
+      ); // Procesam obiectele recursiv
     }
-    return value;
+    return value; // Returnam valoarea nemodificata daca nu e obiect/array
   };
   return convertValue(data);
 };
@@ -78,7 +84,6 @@ async function seedCollection(collectionName, filePath) {
     }
 
     console.log(`✅ ${collectionName}: ${success}/${jsonData.length} inserate cu succes!`);
-
   } catch (err) {
     console.error(`💥 Eroare la ${collectionName}: ${err.message}`);
   }
@@ -109,7 +114,7 @@ async function seedDatabase() {
     console.error('💥 Eroare generala la seeding:', err);
   } finally {
     await mongoose.connection.close();
-    console.log('🔌 Conexiunea MongoDB a fost inchisa!');
+    console.log('🔌 Conexiunea MongoDB a fost închisa!');
   }
 }
 
