@@ -20,6 +20,12 @@ Pachete instalate:
     "nodemon": "^3.1.9"
   }
 
+Pentru crearea fisierelor de node modules vom rula comanda npm install in directorul proiectului;
+Vom crea manual fisierul .env in directorul proiectului care va avea urmatoarea forma:
+
+MONGO_URI=mongodb+srv://username:password@golazo.6mfn8.mongodb.net/golazoDB?retryWrites=true&w=majority&appName=GOLAZO
+PORT=5000
+JWT_SECRET=secventa aleatoare de caractere alpha-numerice
 Pentru populare baza de date se navigheaza in utils ( cd backend/utils) si se ruleaza comanda node seed.js
 Rulare backend: npm run dev (se ruleaza din directorul backend)
 Rulare frontend: npm run dev (se ruleaza din directorul frontend)
