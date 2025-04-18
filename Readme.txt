@@ -2,16 +2,21 @@ Prezentarea generala a proiectului o puteti gasi in folderul Needs unde este ata
 
 
 -----------------------Configurare proiect----------------------------
-Pentru crearea fisierelor de node modules vom rula comanda npm install in directorul proiectului si in frontend;
+Pentru crearea fisierelor de node modules:
+-cd backend
+-npm install
+-cd ../frontend
+-npm intsall
+
 Vom crea manual fisierul .env in directorul proiectului care va avea urmatoarea forma:
 -Creeaza o noua conexiune in MongoDB Compass cu numele "golazoDB";
 -Preiei connection stirngul si il aduagi la MONGO_URI
 
-MONGO_URI=mongodb://localhost:27017/golazoDB
+MONGO_URI=mongodb://localhost:27017/golazoDB (ca si exemplu)
 PORT=5000
 JWT_SECRET=secventa aleatoare de caractere alpha-numerice de lungime maxima 250
 
-Pentru populare baza de date se navigheaza in utils ( cd backend/utils) si se ruleaza comanda node seed.js
+Pentru populare bazei de date se navigheaza in utils ( cd backend/utils) si se ruleaza comanda node seed.js
 
 Rulare backend: npm run dev (se ruleaza din directorul backend)
 
