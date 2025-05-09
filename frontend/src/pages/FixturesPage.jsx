@@ -19,10 +19,7 @@ import { useMatchStore } from '../store/matchStore';
 const FixturesPage = () => {
   const { matches, fetchMatches, loading, error } = useMatchStore();
   const [teamFixtures, setTeamFixtures] = useState([]);
-  const [selectedDate, setSelectedDate] = useState(() => {
-    const today = new Date();
-    return today.toISOString().split('T')[0]; // Format YYYY-MM-DD
-  });
+  const [selectedDate, setSelectedDate] = useState("");
   const bgColor = useColorModeValue('white', 'gray.800');
   const textColor = useColorModeValue('gray.800', 'white');
   const borderColor = useColorModeValue('gray.200', 'gray.700');
@@ -33,26 +30,21 @@ const FixturesPage = () => {
     fetchMatches();
   }, [fetchMatches]);
 
-  useEffect(() => {
-    const currentDate = new Date();
-    let filteredFixtures = matches
-      .filter(match => {
-        const matchDate = new Date(match.eventDate);
-        return matchDate > currentDate && match.teams.includes(myTeam);
-      });
+ useEffect(() => {
+  let filteredFixtures = matches.filter(match => match.teams.includes(myTeam));
 
-    // Aplica filtrul de data daca utilizatorul a selectat una
-    if (selectedDate) {
-      const filterDate = new Date(selectedDate);
-      filteredFixtures = filteredFixtures.filter(match => {
-        const matchDate = new Date(match.eventDate);
-        return matchDate >= filterDate;
-      });
-    }
+  if (selectedDate) {
+    const filterDate = new Date(selectedDate);
+    filteredFixtures = filteredFixtures.filter(match => {
+      const matchDate = new Date(match.eventDate);
+      return matchDate >= filterDate;
+    });
+  }
 
-    filteredFixtures.sort((a, b) => new Date(a.eventDate) - new Date(b.eventDate));
-    setTeamFixtures(filteredFixtures);
-  }, [matches, selectedDate]);
+  filteredFixtures.sort((a, b) => new Date(a.eventDate) - new Date(b.eventDate));
+  setTeamFixtures(filteredFixtures);
+}, [matches, selectedDate]);
+
 
   const handleDateChange = (e) => {
     setSelectedDate(e.target.value);
